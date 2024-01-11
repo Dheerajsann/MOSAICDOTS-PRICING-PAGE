@@ -1,0 +1,15 @@
+{
+  "name": "mosaicdots-pricingpage",
+  "version": "1.0.0",
+  "description": "Mosaicdots pricing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dheeraj Sheeroju",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "font-awesome": "^4.7.0"
+  }
+}
