@@ -3,7 +3,7 @@ body {
   padding: 0;
 }
 .main {
-  width: 1200px;
+  width: 1240px;
 }
 
 .c1 {
@@ -11,12 +11,11 @@ body {
 }
 
 .c2 {
-  align-items: end;
+  align-items: start;
 }
 
 .c3 {
   color: rgba(113, 116, 113, 0.986);
-  margin-top: -15px;
 }
 
 .c4 {
@@ -24,7 +23,7 @@ body {
 }
 
 .s {
-  margin-bottom: 15px;
+ padding-bottom: 15px;
 }
 
 .ruby {
@@ -48,7 +47,6 @@ button {
   height: 55px;
   width: 100%;
   border-radius: 8px;
-  /* outline-color: rgb(61, 23, 197); */
   background-color: white;
   color: rgb(61, 23, 197);
   border: 2px solid rgb(61, 23, 197);
